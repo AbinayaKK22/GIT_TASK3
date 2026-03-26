@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 modified by second branch!
 
 modified by main
+=======
+modified c1 by second branch1!
+>>>>>>> first
